@@ -1,0 +1,6 @@
+@SWASIOAPI_HostAddress = http://localhost:5019
+
+GET {{SWASIOAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
